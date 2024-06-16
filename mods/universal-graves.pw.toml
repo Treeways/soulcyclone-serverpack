@@ -1,0 +1,13 @@
+filename = 'graves-3.4.1+1.21.jar'
+name = 'Universal Graves'
+side = 'server'
+
+[download]
+hash = '18796fa5462a26a61a3f0b92c53dbfc6be85a2fe1f04e44fecd284b953a3bfc850bc4593ef0e8df9732fc07663d450378d31052dfb4aee4ca6b07a0287ae00cd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/yn9u3ypm/versions/qtHZSwwl/graves-3.4.1%2B1.21.jar'
+
+[update.modrinth]
+mod-id = 'yn9u3ypm'
+version = 'qtHZSwwl'

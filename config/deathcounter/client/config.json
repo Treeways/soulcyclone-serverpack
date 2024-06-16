@@ -1,0 +1,19 @@
+{
+    "titleMessage": {
+        "disable": true,
+        "delayInTicks": 60
+    },
+    "chatMessage": {
+        "disable": true
+    },
+    "showWarning": false,
+    "showToastNotification": {
+        "disable": true,
+        "delay": 5000
+    },
+    "webSetup": {
+        "localAddress": "0.0.0.0",
+        "servicePort": 1540,
+        "refreshDelayMs": 5000
+    }
+}

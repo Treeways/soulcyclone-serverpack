@@ -1,0 +1,13 @@
+filename = 'sessility-0.6.1.jar'
+name = 'Sessility'
+side = 'server'
+
+[download]
+hash = '9fb6d5e3293eff2655df4a5f862c386f08b0628e1181138d2759c5bdcd224b4efce03a3c725d9f82cb610104770db96788c11098b75566f62b16594ebdd36972'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/G9rHXWug/versions/y6h0z5Ks/sessility-0.6.1.jar'
+
+[update.modrinth]
+mod-id = 'G9rHXWug'
+version = 'y6h0z5Ks'

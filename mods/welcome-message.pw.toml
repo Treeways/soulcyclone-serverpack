@@ -1,0 +1,13 @@
+filename = 'welcomemessage-1.21.0-2.5.jar'
+name = 'Welcome Message'
+side = 'server'
+
+[download]
+hash = 'd8293af4de09979adf47eba01c5d3537b39db845338f2422c05a780a7698f747c278ad31abd0c6b8ce26ee1ec46981b32d6c36da250347c3f9166850218b5f64'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/DMK2eYu7/versions/ln1IItMx/welcomemessage-1.21.0-2.5.jar'
+
+[update.modrinth]
+mod-id = 'DMK2eYu7'
+version = 'ln1IItMx'

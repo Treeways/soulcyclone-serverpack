@@ -1,0 +1,13 @@
+filename = 'Terralith_1.21_v2.5.3.jar'
+name = 'Terralith'
+side = 'server'
+
+[download]
+hash = '53c5c1f46f03665854f0a8dfc28961eb7bc4f6eaf479084f736b4c8cb8139d5365caedf5982cf4f7940a46894973ddcf097faea97b6d04bb337e7915092da24b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/8oi3bsk5/versions/5k90Bexh/Terralith_1.21_v2.5.3.jar'
+
+[update.modrinth]
+mod-id = '8oi3bsk5'
+version = '5k90Bexh'

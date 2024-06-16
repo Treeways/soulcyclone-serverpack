@@ -1,0 +1,13 @@
+filename = 'craftingtweaks-fabric-1.21-21.0.3.jar'
+name = 'Crafting Tweaks'
+side = 'both'
+
+[download]
+hash = '6e4a98b91e762a0d51e60862805fada32a332c520b063be5d26caffe014b509e819c395a64b78cd8c006c3f5c78c93240bfa5570b567d1b7a23248f5392ac63f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/DMu0oBKf/versions/G3yMTkTr/craftingtweaks-fabric-1.21-21.0.3.jar'
+
+[update.modrinth]
+mod-id = 'DMu0oBKf'
+version = 'G3yMTkTr'

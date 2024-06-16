@@ -1,0 +1,360 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/FixMCStatsConfig"
+hash = "f8941a8a79293a0373288d98b4b50f69876cc8ac9e871236320bfde06cae4030"
+
+[[files]]
+file = "config/balm-common.out.toml"
+hash = "510d58cd9d7650cf6def56593de0994831ca5373079a0d0c2cf3a151bea45ab4"
+
+[[files]]
+file = "config/balm-common.toml"
+hash = "a200148a1d65802310b4a477e2bb76ae4202e16da96edcf62c82ff303911caac"
+
+[[files]]
+file = "config/collective.json5"
+hash = "46becc245e9776805eb68f2712904492158c306e09b9a1b42c717c7fb8be33fc"
+
+[[files]]
+file = "config/compacthelpcommand.json5"
+hash = "062bdb8362d0d793c18970377981f316bf8f0d4508ed960fd71b897492e0f774"
+
+[[files]]
+file = "config/coords-hud/config.json"
+hash = "444fd7b3e673f81868b042437319ac11697da2c18cc07b85f4277755f65d3838"
+
+[[files]]
+file = "config/coords-hud/data.mv.db"
+hash = "44fa2ffd50d8a33af46484f90554c88b84e6586d0c00c302b0d0588fdd7b9e10"
+
+[[files]]
+file = "config/craftingtweaks-common.toml"
+hash = "4af862cd0a1c7c379c40c110d5ddea00e211dec005fb09dcee1bfa490b3682b0"
+
+[[files]]
+file = "config/deathcounter/client/config.json"
+hash = "3467d2b11c33da8878ade2ef528f638e9e40a7998a8f5c704cac48a513277afe"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "bf43874893666f933089cb1de67673ec3ccce8064060a5471130721a6416bade"
+
+[[files]]
+file = "config/firespreadtweaks.json5"
+hash = "14ae60dcd9a6e0834f149fa6283ee5333fddaea8e541ed3148732420a424472f"
+
+[[files]]
+file = "config/fstats-api/config.json"
+hash = "2117fc89ae4f46a1145e918ee2d7992004ce3e97a02c814dfd43fc472c380c86"
+
+[[files]]
+file = "config/grindenchantments.json"
+hash = "3affe2624889526a3e654221c6efa4c6aae0f142432a67f2874887480243ad36"
+
+[[files]]
+file = "config/justmobheads.json5"
+hash = "257628f0b1b218580cc94ab68910b427652ae55b212221d84f72d998125bf9ff"
+
+[[files]]
+file = "config/justmobheads/headchances.txt"
+hash = "1b11794aa7f45b00fea466b39407e117a5a5dba041f2a8a0845ab9fe211f9019"
+
+[[files]]
+file = "config/justplayerheads.json5"
+hash = "8c6db87dadb48cb5dbb014be6a501a0fb16ef2ac6d2946ca3c69fffc05a65e8e"
+
+[[files]]
+file = "config/kleeslabs-common.toml"
+hash = "510d58cd9d7650cf6def56593de0994831ca5373079a0d0c2cf3a151bea45ab4"
+
+[[files]]
+file = "config/midnightlib.json"
+hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "b67b0bb43dd7254cbe1a639f9123934766df033ade2d83110e9b9a728780511d"
+
+[[files]]
+file = "config/polymer/auto-host.json"
+hash = "15d96004e4b0b145644171f9da4d68d63de59773f7e23b00bfbc3feddeb0cab5"
+
+[[files]]
+file = "config/polymer/client.json"
+hash = "a48944832b3d6ddfada784330a3006afa7c5e9beb995489d383d2b25854cbb6f"
+
+[[files]]
+file = "config/polymer/common.json"
+hash = "310dee45deffb1f13169492bf25cee00503e91403daa8cffa653939feb76cc03"
+
+[[files]]
+file = "config/polymer/resource-pack.json"
+hash = "eb2af81e13f656de92107e27b18d49f3f4ea27221336991627ec634cbb4d0387"
+
+[[files]]
+file = "config/polymer/server.json"
+hash = "233d56a8a7228e1d85fec9080a0821e92c910807a3a80c4c7392f29f80850558"
+
+[[files]]
+file = "config/preferred-gamerules.properties"
+hash = "00914d9ac9604e82c75c3c14d0b1e0201233d1ec60047c0cb8d43d6ec012b777"
+
+[[files]]
+file = "config/repurposed_structures.json"
+hash = "14e4fe1ded11fa49bfc3479a8e7efdda0e5bc7333d6c9723b44c87306619d8ab"
+
+[[files]]
+file = "config/sessility.properties"
+hash = "98a9370a59f12afbf7d4118593ffef751c142a46c5d6c30d2beb2bda88499d5a"
+
+[[files]]
+file = "config/shulkerbox/shulkerbox.properties"
+hash = "79921997c1d74ea432ec0e6aec763994f85857584649b2bf7294221b52df4726"
+
+[[files]]
+file = "config/shulkerdropstwo.json5"
+hash = "39e73808f3dc67ae55a5d046fcef8ed54d3f7be961e76e8f2703bbd1c192b656"
+
+[[files]]
+file = "config/stackdeobf.json"
+hash = "ab7ea0a22b66e8d4b6eebbeace63fa71dfc830afaa0649c89a62c18df65a8808"
+
+[[files]]
+file = "config/treeharvester.json5"
+hash = "53815f56d66e3ec1c307d94b025a9df1521d690520bd2c28f6cc4db1e5967fed"
+
+[[files]]
+file = "config/treeharvester/harvestable_axe_blacklist.txt"
+hash = "a7daeb3c27ef0e2b6aac7d892a38e4dd20866ce50daacefc1af2f50cfa4c0e7d"
+
+[[files]]
+file = "config/universal-graves/config.json"
+hash = "9dbfc1b79e54b21c272c4682794487697a494e7f5382de1563412fc904082dbd"
+
+[[files]]
+file = "config/universal-graves/example_models/corpse_player.json"
+hash = "f1f86bd740c9bde120cca8769e900005cf46f67cfb076b65b50c339f47deb69e"
+
+[[files]]
+file = "config/universal-graves/example_models/corpse_zombie.json"
+hash = "dc1ee62c77ef7831f52c1c9a44c5dff3e5ccaa4094d43438e9fdbe1f41a06a17"
+
+[[files]]
+file = "config/universal-graves/example_models/default.json"
+hash = "c0f6c5e52fcfe066b1b300e9c4c738feb87dc1397ce45e58b99b63cb25e07167"
+
+[[files]]
+file = "config/universal-graves/example_models/player_head.json"
+hash = "c0f6c5e52fcfe066b1b300e9c4c738feb87dc1397ce45e58b99b63cb25e07167"
+
+[[files]]
+file = "config/universal-graves/example_models/soul.json"
+hash = "bd3c7cba512978e4d0f5632aed773b47d93e80e9243656fc092d6cc56ddc53e1"
+
+[[files]]
+file = "config/welcomemessage.json5"
+hash = "d4855faf5206f8d8f1c3a88fc1f0fcc9c8008acb6772decb8d730df575430d95"
+
+[[files]]
+file = "config/whereisit.json5"
+hash = "0d0d0c5910c25af5c8f2596cd0808cbf45c9c79da3d553a537a971dc7851bd39"
+
+[[files]]
+file = "config/yacl.json5"
+hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
+
+[[files]]
+file = "mods/advanced-shulkerboxes.pw.toml"
+hash = "fd8ff00274998a25dcd85ed16c2c2dc3811fd64a3f5286c3c19321f47fbd714a"
+metafile = true
+
+[[files]]
+file = "mods/audaki-cart-engine.pw.toml"
+hash = "50711888a36e9768757a5b836832f7e28b43ebbd4e075bdfcafec974261de126"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "548885b28e4dea41827c87356c42f7a4188d7ba3104f39d0d1c59912dfdc6076"
+metafile = true
+
+[[files]]
+file = "mods/better-spawner-control.pw.toml"
+hash = "ee7008c833f667a2f058089b0b3b98407165dad44a3b62136b7223876ac2e4af"
+metafile = true
+
+[[files]]
+file = "mods/calcmod.pw.toml"
+hash = "48f84963964db2cbf49040d142f97d381a652c32779b58d7ab4f185eda93e326"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "e36358eaf8602c7f57d9ccce9352a2ac860bfcefd040e82096fbe77941634e53"
+metafile = true
+
+[[files]]
+file = "mods/compact-help-command.pw.toml"
+hash = "4db91b21d464603d3608035cd46ab5ad6d2ca171bb39bf20213d9f3082aea3f9"
+metafile = true
+
+[[files]]
+file = "mods/convenient-mobgriefing.pw.toml"
+hash = "df9105452b960518b5eec68ee2c9ef48f43ff8a6a67fd0d8ec4fc503d89dd437"
+metafile = true
+
+[[files]]
+file = "mods/coords-hud.pw.toml"
+hash = "88a8c233c07a65f2caf1ca582da950d181b431ac6c29da9ec2758f6763341b5f"
+metafile = true
+
+[[files]]
+file = "mods/crafting-tweaks.pw.toml"
+hash = "0f23869471a928acb59c96810209738b3b8b75dd7738a98902ac89095333c840"
+metafile = true
+
+[[files]]
+file = "mods/craterlib.pw.toml"
+hash = "6337721f0bf48565700262edf7b2e8dd845ef001aa3bf86e2d755b2d8ba3b890"
+metafile = true
+
+[[files]]
+file = "mods/death-counter.pw.toml"
+hash = "bfba6053cc4c2675e525450594c7c522d33d643e00bbcc333712e9f96a86db73"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "0362a2b5492ebb54701bebadfa2f45b808dfd31e33630aaa20d0a6a8b95b5ef2"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "798e78427b1b8dfbe8afefffb9cf3fad8c0469677a2a9beaf650447a409c016a"
+metafile = true
+
+[[files]]
+file = "mods/fire-spread-tweaks.pw.toml"
+hash = "fdbc05ee7c6ba4e9c17eca4e8bac83710d5f5834f7ea02236db304780cfc950d"
+metafile = true
+
+[[files]]
+file = "mods/geophilic.pw.toml"
+hash = "f22ed60da8da0a33f02e406f4032454970e739a45ee26f3b43b9a90e0da56f14"
+metafile = true
+
+[[files]]
+file = "mods/grind-enchantments.pw.toml"
+hash = "6ec14f120fcd177279fb01921986815d0ca0cedf33eff964d5781933682c73d7"
+metafile = true
+
+[[files]]
+file = "mods/hopo-better-mineshaft.pw.toml"
+hash = "ee2ec9e714c7162cc1a544782b8237695712aa3ac73465f0d091364ab2aa25be"
+metafile = true
+
+[[files]]
+file = "mods/hopo-better-underwater-ruins.pw.toml"
+hash = "f06a32123407dd1057b4f97effde5125ec9d202afad3651c2d86112d8d323088"
+metafile = true
+
+[[files]]
+file = "mods/just-mob-heads.pw.toml"
+hash = "c9d06310364aec841565642753ea81e16abb02bac5e09bcd3070a0ebaff58476"
+metafile = true
+
+[[files]]
+file = "mods/just-player-heads.pw.toml"
+hash = "f2664ca5f720223c8b362bc35998c1b3f5d5847b814f9d16b8ff47a7df6ceb92"
+metafile = true
+
+[[files]]
+file = "mods/kleeslabs.pw.toml"
+hash = "ead87c30150e19107a522ea6cd38e979d1e296dc18bec06460d78c11bbb7dd4c"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "a8e7f8790edc735aa341b8a861464a85574ccdce614d91828b9841b74b318350"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "f3ec7ec729d108b353214a86a72dca1a7362c0639c3438aec90d6e627f7fea7f"
+metafile = true
+
+[[files]]
+file = "mods/polydecorations.pw.toml"
+hash = "e1aaf76ecd3992a2d1b09884b47a4aa34656894a94579a18c31f4d641d26636c"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+hash = "a88a46234df7c3b4f5f4814df068e2ed72cd8982af73dc8d7a071d4575b00a95"
+metafile = true
+
+[[files]]
+file = "mods/preferred-gamerules.pw.toml"
+hash = "86b5ec3fab91952ff8823b5ba5c9b6b2b33abc776726893732be6805866bcf8f"
+metafile = true
+
+[[files]]
+file = "mods/remove-terralith-intro-message.pw.toml"
+hash = "755429fa952878d403d9fffe3f0f79199c697fa4384f5b9dd1a9135daed66705"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures-fabric.pw.toml"
+hash = "43599216540e53ae151353c5a74a1ad7c8e8fe9952db1e1e347b02153b142801"
+metafile = true
+
+[[files]]
+file = "mods/scaffolding-drops-nearby.pw.toml"
+hash = "e8854c22869bf13b262c1adb44a46cf2acf7293fd8432b9c3554bbcc1be107b6"
+metafile = true
+
+[[files]]
+file = "mods/sessility.pw.toml"
+hash = "90b613e5d60de6a0b23ccca3b74a69b8805cfe69c52f187acfe90c303636f89c"
+metafile = true
+
+[[files]]
+file = "mods/shulker-drops-two.pw.toml"
+hash = "8c0037e59eac470b3e28a818b54247f1f1f2f13dd9ab03f638808b1be62b5462"
+metafile = true
+
+[[files]]
+file = "mods/stackdeobf.pw.toml"
+hash = "1d93ef18cb92dd27519ebe80f74a01b5896d66319b3aab844ccf2ac248602f9e"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "85258207ed332b5576bbb90a202f6a507a968023f854ef1cd516270f2fb31e28"
+metafile = true
+
+[[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "ba34afbbbb60e2bbf091c7ce09914ad66a94eb35b0f7087bb27087c701464c77"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "9c5f710a0a26953b7b212f1e2ba4a791d88a49ad924dc39d3ff586a87d25ecc0"
+metafile = true
+
+[[files]]
+file = "mods/welcome-message.pw.toml"
+hash = "2106d78b5111c7b94c251af6251127a6e9a42b839243507d26a2604b0ab5b751"
+metafile = true
+
+[[files]]
+file = "mods/where-is-it.pw.toml"
+hash = "f41cc1fcc551c398ac125158c356fc51af7a54fea9ceaaefc135ac731a8e144a"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "52b21e48e529ad7fefd6e91698277d477630fc72b141121234d498e83bb9284f"
+metafile = true

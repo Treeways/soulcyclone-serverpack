@@ -1,0 +1,13 @@
+filename = 'shulkerdropstwo-1.21.0-3.3.jar'
+name = 'Shulker Drops Two'
+side = 'server'
+
+[download]
+hash = '19649197df8ef1bd18ed2fb17efbddab6a6c73c92c40c8957223c5e6fd0b411797ed8a7c421134d8cbec56db0088e57669f30384b3aa350f9f37f1e61616f3f8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/UjXIyw47/versions/vuUkWyf3/shulkerdropstwo-1.21.0-3.3.jar'
+
+[update.modrinth]
+mod-id = 'UjXIyw47'
+version = 'vuUkWyf3'

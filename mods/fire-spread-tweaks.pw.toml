@@ -1,0 +1,13 @@
+filename = 'firespreadtweaks-1.21.0-2.6.jar'
+name = 'Fire Spread Tweaks'
+side = 'server'
+
+[download]
+hash = '97fac23e870cd39dcc3ebd455f13c7003b69a8e5897e3a3ac55bdceb1f66fa281f411bc95e9f431f3b79cae73c65e20c92ada6fa7713adb61799fc5c63ae203c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vgI7KTun/versions/RquLWRVb/firespreadtweaks-1.21.0-2.6.jar'
+
+[update.modrinth]
+mod-id = 'vgI7KTun'
+version = 'RquLWRVb'

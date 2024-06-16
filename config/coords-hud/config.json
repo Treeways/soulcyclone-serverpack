@@ -1,0 +1,24 @@
+{
+    "isEnabledByDefault": false,
+    "defaultFormat": {
+        "text": "",
+        "extra": [
+            {
+                "text": "XYZ: ",
+                "color": "blue"
+            },
+            {
+                "text": "%player:pos_x 0% %player:pos_y 0% %player:pos_z 0%   ",
+                "color": "white"
+            },
+            {
+                "text": "%coords-hud:compass_icon% ",
+                "color": "blue"
+            },
+            {
+                "text": "%coords-hud:compass_facing%   ",
+                "color": "white"
+            }
+        ]
+    }
+}

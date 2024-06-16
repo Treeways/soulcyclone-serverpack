@@ -1,0 +1,13 @@
+filename = 'grind-enchantments-3.2.2+1.21-rc1.jar'
+name = 'Grind Enchantments'
+side = 'server'
+
+[download]
+hash = 'a2fb26b75f5e94f0e066b1efc896e25000135940026d13628f6cbf5bfa764b8ee792428b94881d7202738ad0ab3a049588fda70d8cd664b0ca23f20b91a4a6b3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/WC4UgDcZ/versions/yckYZpeJ/grind-enchantments-3.2.2%2B1.21-rc1.jar'
+
+[update.modrinth]
+mod-id = 'WC4UgDcZ'
+version = 'yckYZpeJ'

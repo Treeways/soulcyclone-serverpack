@@ -1,0 +1,13 @@
+filename = 'death-counter-1.21-2024.6.1.jar'
+name = 'Death Counter'
+side = 'both'
+
+[download]
+hash = '2ec08f8dae6197505f131c258f8af594b99233b956ddafb15515f81a2a4276ae8101c5767d9c9bb540c44f0c6e136d438f58c0908e10521765172c7a1f31b36e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/7x0zk3YH/versions/ydDtHVWy/death-counter-1.21-2024.6.1.jar'
+
+[update.modrinth]
+mod-id = '7x0zk3YH'
+version = 'ydDtHVWy'

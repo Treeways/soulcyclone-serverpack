@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "ec793c1ee2de346e110748791388f248c34ae07a6de596ea3cc2ebf19121d139"
+
+[[files]]
+file = "README.md"
+hash = "55daf750027fccec40c53275fe513d18fc0f185c2d762e365a4e29ea51cb6233"
+
+[[files]]
 file = "config/FixMCStatsConfig"
 hash = "f8941a8a79293a0373288d98b4b50f69876cc8ac9e871236320bfde06cae4030"
 
@@ -154,7 +162,7 @@ hash = "bd3c7cba512978e4d0f5632aed773b47d93e80e9243656fc092d6cc56ddc53e1"
 
 [[files]]
 file = "config/welcomemessage.json5"
-hash = "d4855faf5206f8d8f1c3a88fc1f0fcc9c8008acb6772decb8d730df575430d95"
+hash = "f6f2fc3b34842e319a41cf07a156c69b8358eba8aeb4352e2fb9c46e1e6a20f2"
 
 [[files]]
 file = "config/whereisit.json5"

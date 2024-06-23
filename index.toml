@@ -62,7 +62,7 @@ hash = "3affe2624889526a3e654221c6efa4c6aae0f142432a67f2874887480243ad36"
 
 [[files]]
 file = "config/justmobheads.json5"
-hash = "257628f0b1b218580cc94ab68910b427652ae55b212221d84f72d998125bf9ff"
+hash = "c5bcdc35b6c4fb7e5a96d552c10c13302c95956b3d6b038817cb97cd26f42801"
 
 [[files]]
 file = "config/justmobheads/headchances.txt"

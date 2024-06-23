@@ -184,7 +184,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "548885b28e4dea41827c87356c42f7a4188d7ba3104f39d0d1c59912dfdc6076"
+hash = "332b3dcd4f72c3c122e8201bfbb76a78a329dc4ffe1056bad6096330ba07d765"
 metafile = true
 
 [[files]]
@@ -199,7 +199,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "e36358eaf8602c7f57d9ccce9352a2ac860bfcefd040e82096fbe77941634e53"
+hash = "73c57e25a0df4e1073584a5035a39e210785a821cc8bf539c81058c5dc103532"
 metafile = true
 
 [[files]]
@@ -234,7 +234,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "0362a2b5492ebb54701bebadfa2f45b808dfd31e33630aaa20d0a6a8b95b5ef2"
+hash = "e9870688b5c78a9cc50f79922fdac81e1999279f5567cd5092952adaf6471313"
 metafile = true
 
 [[files]]
@@ -249,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "f22ed60da8da0a33f02e406f4032454970e739a45ee26f3b43b9a90e0da56f14"
+hash = "8b095b4d08ca635469699556d1a6ce979ae614d33b849a57df9ca012a067faec"
 metafile = true
 
 [[files]]
@@ -289,7 +289,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "f3ec7ec729d108b353214a86a72dca1a7362c0639c3438aec90d6e627f7fea7f"
+hash = "0232ec9d048fafef4d30897343834e6958580863be3ba53ce85abe80ba799878"
 metafile = true
 
 [[files]]

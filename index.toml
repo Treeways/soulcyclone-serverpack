@@ -233,6 +233,11 @@ hash = "bfba6053cc4c2675e525450594c7c522d33d643e00bbcc333712e9f96a86db73"
 metafile = true
 
 [[files]]
+file = "mods/explorify.pw.toml"
+hash = "6fe33454b775d480be9ee6c50b2b6bf2bc7117b631e8bc6144af6f59d2f7d2d2"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "e9870688b5c78a9cc50f79922fdac81e1999279f5567cd5092952adaf6471313"
 metafile = true
@@ -263,6 +268,11 @@ hash = "ee2ec9e714c7162cc1a544782b8237695712aa3ac73465f0d091364ab2aa25be"
 metafile = true
 
 [[files]]
+file = "mods/hopo-better-ruined-portals.pw.toml"
+hash = "9790f306136c1f3f26c121fa0143f6280823ea6afa13aa16ce7e173a3867f17e"
+metafile = true
+
+[[files]]
 file = "mods/hopo-better-underwater-ruins.pw.toml"
 hash = "f06a32123407dd1057b4f97effde5125ec9d202afad3651c2d86112d8d323088"
 metafile = true
@@ -285,6 +295,11 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "a8e7f8790edc735aa341b8a861464a85574ccdce614d91828b9841b74b318350"
+metafile = true
+
+[[files]]
+file = "mods/mo-structures.pw.toml"
+hash = "21a6e5b2501136d900faead04ebe732d5098f6364a05a514f1c1f89c3d578e92"
 metafile = true
 
 [[files]]

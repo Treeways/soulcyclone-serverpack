@@ -1,0 +1,13 @@
+name = "Replanting Crops"
+filename = "replantingcrops-1.21.0-5.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/EXzIPtJo/versions/q4sTRaxH/replantingcrops-1.21.0-5.3.jar"
+hash-format = "sha1"
+hash = "f05c1d149dfcc4254f686a6239efff1cd2ffa427"
+
+[update]
+[update.modrinth]
+mod-id = "EXzIPtJo"
+version = "q4sTRaxH"

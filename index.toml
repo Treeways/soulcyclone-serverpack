@@ -13,6 +13,10 @@ file = "config/FixMCStatsConfig"
 hash = "f8941a8a79293a0373288d98b4b50f69876cc8ac9e871236320bfde06cae4030"
 
 [[files]]
+file = "config/NoChatReports/NCR-Common.json"
+hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
+
+[[files]]
 file = "config/balm-common.out.toml"
 hash = "510d58cd9d7650cf6def56593de0994831ca5373079a0d0c2cf3a151bea45ab4"
 
@@ -107,6 +111,10 @@ hash = "233d56a8a7228e1d85fec9080a0821e92c910807a3a80c4c7392f29f80850558"
 [[files]]
 file = "config/preferred-gamerules.properties"
 hash = "00914d9ac9604e82c75c3c14d0b1e0201233d1ec60047c0cb8d43d6ec012b777"
+
+[[files]]
+file = "config/replantingcrops.json5"
+hash = "58ec1ad4dab7ebcd4c7083ad3bfb278812138a5a7590ed91a788508a009b6280"
 
 [[files]]
 file = "config/repurposed_structures.json"

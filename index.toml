@@ -313,6 +313,11 @@ hash = "100a5dfaccb55b107edc57e11fafc1222dc443ce9b669f0d79a39b488e3e45ae"
 metafile = true
 
 [[files]]
+file = "mods/omnicut-better-wood-stone-cutter.pw.toml"
+hash = "41bc95006f7e4067b863061a0b50dfd692da9658c5bc49bcad2d78538df2318b"
+metafile = true
+
+[[files]]
 file = "mods/polydecorations.pw.toml"
 hash = "e1aaf76ecd3992a2d1b09884b47a4aa34656894a94579a18c31f4d641d26636c"
 metafile = true
